@@ -1,7 +1,7 @@
 {
   "name": "techops-share",
   "version": "1.0.0",
-  "description": "A drupal module that provides a share widget with minimal markup, css 3 happyness and no cross domain javascript getting up in our collective internet trails. Used in directory.occupy.net, actionswitchboard.net",
+  "description": "A drupal module that provides a share widget with minimal markup, css 3 happyness and no cross domain javascript getting up in our collective internet trails. Used in directory.occupy.net, occupywallstreetnet, and actionswitchboard.net",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
