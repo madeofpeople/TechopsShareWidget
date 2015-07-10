@@ -1,0 +1,32 @@
+{
+  "name": "techops-share",
+  "version": "1.0.0",
+  "description": "A drupal module that provides a share widget with minimal markup, css 3 happyness and no cross domain javascript getting up in our collective internet trails. Used in directory.occupy.net, actionswitchboard.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeofpeople/techops-share.git"
+  },
+  "keywords": [
+    "drupal",
+    "social",
+    "ows",
+    "techops"
+  ],
+  "author": "Thiago de Mello Bueno",
+  "contributors" : [
+    {
+      "name": "Ross Glover <ross@glocal.coop>",
+      "name": "Alec Reynolds <alec@kalamuna.com>",
+      "name": "Andrew Mallis <ows.ideograph.ca>"
+    }
+  ],
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/madeofpeople/techops-share/issues"
+  },
+  "homepage": "https://github.com/madeofpeople/techops-share#readme"
+}
